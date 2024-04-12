@@ -1,6 +1,6 @@
 ## **Project Title**: **Swarm SLAM for Environment Mapping**
 
-**Team**: Abdalla Mahgoub Eltayeb, Haonen Chen, Anusri Sreenath , Apratim Banerjee
+**Contributors**: Apratim Banerjee, Abdalla Mahgoub Eltayeb, Haonen Chen, Anusri Sreenath
 
 EECS 149/249A Project, Fall 2023
 

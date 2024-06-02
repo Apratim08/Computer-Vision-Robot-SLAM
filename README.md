@@ -2,7 +2,7 @@
 
 **Contributors**: Apratim Banerjee, Abdalla Mahgoub Eltayeb, Haonen Chen, Anusri Sreenath
 
-EECS 149/249A Project, Fall 2023
+EECS 249A Project, Fall 2023
 
 ## Abstract
 SLAM, or Simultaneous Localization and Mapping, is employed in robotics and autonomous systems for real-time navigation and mapping of unknown environments. In our project, a robot utilizes various sensors, such as LiDAR and stereo vision cameras, to gather data about its surroundings while simultaneously estimating its own position within that environment. The algorithm dynamically integrates sensor measurements and motion control inputs to iteratively refine the robot's estimated pose and construct a detailed map of the environment. SLAM plays a pivotal role in autonomous systems, enabling them to navigate, explore, and interact with their surroundings without a priori knowledge.
